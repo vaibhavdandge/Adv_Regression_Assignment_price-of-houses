@@ -1,4 +1,4 @@
-# build a regression model for House Prices
+# Build a Regression model for House Prices
 > Outline a brief description of your project.
 
 Problem Statement:
